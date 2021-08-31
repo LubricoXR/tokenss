@@ -1,1 +1,1 @@
-node onliner.js
+worker: node onliner.js
